@@ -6,7 +6,7 @@ K-Means Clustering for simple image segmentation
   <tr>
     <th>
       <p align="center">
-           <img src="img/road.jpg" alt="input">
+           <img src="input.png" alt="input">
            <br>Test image (input)
       </p>
     </th>
